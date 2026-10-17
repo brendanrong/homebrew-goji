@@ -3,8 +3,8 @@
 #
 #   brew install --cask brendanrong/goji/goji
 cask "goji" do
-  version "1.3.2"
-  sha256 "31fb654c02ff600fd1f360bbde380296764b6f92787cc5b3e6df07f6fec5ebce"
+  version "1.3.3"
+  sha256 "14e1cc85ab3289012187bc37626385b16e2127afaf2b2eec3a44f6917cef7483"
 
   url "https://github.com/brendanrong/goji/releases/download/v#{version}/Goji.dmg"
   name "Goji"
